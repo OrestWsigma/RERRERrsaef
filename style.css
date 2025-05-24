@@ -85,12 +85,12 @@ h3 {
     width: 60%;
 }
 
-iframe {
+.video {
     position: absolute;
     left: 350px;
-    bottom: 1200px;
-    width: 670px;
-    height: 250px;
+    bottom: -300px;
+    width: 800px;
+    height: 500px;
 }
 
 header{
