@@ -87,10 +87,15 @@ h3 {
 
 .video {
     position: absolute;
-    left: 350px;
-    bottom: -300px;
+    left: 700px;
+    bottom: -225px;
     width: 800px;
     height: 500px;
+}
+
+iframe {
+    width: 600px;
+    height: 300px;
 }
 
 header{
@@ -301,5 +306,3 @@ footer {
     background: #4CAF50;
     padding: 20px;
 }
-
-
